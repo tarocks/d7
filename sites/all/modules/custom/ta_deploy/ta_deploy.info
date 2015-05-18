@@ -1,0 +1,4 @@
+name = Deployment Module
+description = Module for deploying configuration changes
+core = 7.x
+version = "7.x.0"

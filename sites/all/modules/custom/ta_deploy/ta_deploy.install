@@ -1,0 +1,11 @@
+<?php
+/**
+ * @file 
+ * Handles db operations  
+ */
+
+function ta_deploy_update_7002() {
+  variable_set('site_name', 'Drupal Deploy Demo');  
+}
+
+?>

@@ -8,4 +8,8 @@ function ta_deploy_update_7003() {
   variable_set('site_name', 'Drupal Deployment Demo');  
 }
 
+function ta_deploy_update_7004() {
+  variable_set('site_name', 'Drupal Deployment Demon 123');  
+}
+
 ?>
